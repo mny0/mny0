@@ -68,12 +68,8 @@ Interested in Machine Learning and Deep Learning.
 
 
 <div align="center">
-  <img
-    width="391"
-    height="436"
-    alt="html-image"
-    src="https://github.com/user-attachments/assets/8960dc3c-d4b9-420d-b3b9-dd7102b0a9a1"
-  />
+  <img width="391" height="436" alt="html-image" src="https://github.com/user-attachments/assets/681e0744-a94e-40c8-a30f-ef3fc55c34ba" />
+
 </div>
 
 
