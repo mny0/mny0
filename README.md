@@ -1,4 +1,4 @@
-<h1 align="center">하이루세요 · Welcome, pilgrim</h1>
+<h1 align="center">하이루세요 · Welcome</h1>
 <div align="center">
   
 ```
