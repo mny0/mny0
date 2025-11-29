@@ -10,7 +10,6 @@ Interested in Machine Learning and Deep Learning.
 - cryptography  
 - aviation  
 - protocol design
-- AI/ML
 - 🇩🇪 / 🇰🇷 / 🇺🇸
 
 ## beyond the code · 코딩 안 할 땐..
