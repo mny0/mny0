@@ -6,7 +6,7 @@ Interested in Machine Learning and Deep Learning.
 ```
 </div>
 
-## mny core · 만뉴 코어 ✨
+## mny core · 만우 코어 ✨
 - cryptography  
 - aviation  
 - protocol design
