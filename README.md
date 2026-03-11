@@ -8,8 +8,7 @@ Interested in Machine Learning and Deep Learning.
 
 ## mny core · 만우 코어 ✨
 - cryptography  
-- aviation  
-- protocol design
+- aviation
 - 🇩🇪 / 🇰🇷 / 🇺🇸
 
 ## beyond the code · 코딩 안 할 땐..
