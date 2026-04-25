@@ -18,7 +18,7 @@ Interested in too many things.
 
 ### languages · 언어
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,js,php&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,php,c&perline=8" />
 </p>
 
 ### web · 웹
