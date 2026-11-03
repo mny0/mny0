@@ -28,7 +28,7 @@ Interested in too many things.
 
 ### frameworks · 프레임워크
 <p>
-  <img src="https://skillicons.dev/icons?i=electron,pytorch,tensorflow,cloudflare,mysql,qt&perline=8" />
+  <img src="https://skillicons.dev/icons?i=electron,pytorch,tensorflow,cloudflare,mysql&perline=8" />
 </p>
 
 ### editors · 에디터
